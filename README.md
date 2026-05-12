@@ -13,6 +13,10 @@ Long-term goal: digital twin for surgical procedures — muscle, bone, and cutti
 - [ ] Cutting mechanics (Cohesive Zone Model)
 - [ ] CT-based patient-specific geometry
 
+## Results
+
+![Force-displacement](docs/force_displacement_comparison.png)
+
 ## Stack
 - FEniCSx / DOLFINx 0.10
 - UFL (Unified Form Language)
